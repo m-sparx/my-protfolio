@@ -25,7 +25,7 @@ h3 {
 
 .navbar-brand,
 .nav-link,
-.email-link:hover {
+.contact-links:hover {
   color: var(--lt-mauve);
 }
 
@@ -46,10 +46,6 @@ button {
 }
 
 button:hover {
-  opacity: 1;
-  text-decoration: none;
-}
-.contact-links:hover {
   opacity: 1;
   text-decoration: none;
 }
