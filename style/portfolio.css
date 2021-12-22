@@ -11,11 +11,6 @@
   background-color: #e1dee1;
 }
 
-.navbar-toggler,
-.navbar-toggler-icon,
-.navbar-brand,
-.navbar-nav #navbarNav,
-.nav-link,
 .contact-links,
 h1,
 h3 {
@@ -23,10 +18,12 @@ h3 {
   text-decoration: none;
 }
 
-.navbar-brand,
-.nav-link,
 .contact-links:hover {
   color: var(--lt-mauve);
+}
+
+.active {
+  color: var(--dk-mauve) !important;
 }
 
 button {
